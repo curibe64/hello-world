@@ -1,2 +1,4 @@
 # hello-world
-My new repo
+Hi Humans.
+
+CUbot here... I love the outdoors and tacos.
